@@ -1,6 +1,7 @@
 ---
 title: "SwagShop"
 description: "HackTheBox - Linux"
+summary: "HackTheBox - Linux"
 date: 2026-06-09
 ---
 
