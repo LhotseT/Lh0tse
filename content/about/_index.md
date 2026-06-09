@@ -8,7 +8,7 @@ layout: "single"
 
 Hey, I'm Bruno — based in Ireland, currently studying for my OSCP and spending most of my time breaking into machines I'm allowed to break into.
 
-I'm mainly interested in the offensive side of security — enumeration, exploitation, getting that root flag. This site is where I document my journey through HackTheBox and share writeups as I work through machines.
+I'm mainly interested in the offensive side of security — enumeration, exploitation, getting that root flag. This site is where I document my journey through machines and share writeups and blogs. 
 
 Still learning, still grinding. If you're on the same path feel free to reach out.
 
