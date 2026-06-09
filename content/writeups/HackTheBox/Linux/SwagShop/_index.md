@@ -1,3 +1,9 @@
+---
+title: "SwagShop"
+description: "HackTheBox - Linux"
+date: 2026-06-09
+---
+
 # SwagShop (Magento)
 
 **Attack Box:** Linux
