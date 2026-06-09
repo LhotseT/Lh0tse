@@ -6,7 +6,7 @@ hideMeta: true
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; min-height: 70vh;">
-<div style="font-family: monospace; background: #1a1a1a; border: 1px solid #333; border-radius: 8px; padding: 2rem; max-width: 900px; width: 100%;">
+<div style="font-family: monospace; background: #1a1a1a; border: 1px solid #333; border-radius: 8px; padding: 2rem; max-width: 1600px; width: 100%;">
 
 <div style="color: #666; margin-bottom: 1rem;">
   <span style="color: #ff5f56;">●</span>
