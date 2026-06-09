@@ -3,17 +3,21 @@ baseURL = "https://LhotseT.github.io/Lh0tse/"
 languageCode = "en-us"
 title = "Bruno Torres (Lh0tse)"
 
-[[menu.main]]
-name = "Blog"
-url = "/blog/"
-weight = 1
+[params]
+ShowMenu = true
 
-[[menu.main]]
-name = "Writeups"
-url = "/writeups/"
-weight = 2
+[menu]  # ← this section is required
+  [[menu.main]]  
+  name = "Blog"
+  url = "/blog/"
+  weight = 1
 
-[[menu.main]]
-name = "About"
-url = "/about/"
-weight = 3
+  [[menu.main]]
+  name = "Writeups"
+  url = "/writeups/"
+  weight = 2
+
+  [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 
