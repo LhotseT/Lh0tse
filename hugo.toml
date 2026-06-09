@@ -20,4 +20,4 @@ ShowMenu = true
   [[menu.main]]
   name = "About"
   url = "/about/"
-  weight = 
+  weight = 3 
