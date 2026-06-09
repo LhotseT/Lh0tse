@@ -1,6 +1,4 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod
-[submodule ".github/workflows/themes/PaperMod"]
-	path = .github/workflows/themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod
+
