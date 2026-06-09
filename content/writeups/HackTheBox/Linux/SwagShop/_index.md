@@ -8,7 +8,7 @@ date: 2026-06-09
 # SwagShop (Magento)
 
 **Attack Box:** Linux
-
+**Difficulty:** Easy
 **IP:** 10.129.229.138
 
 ## Enumeration
