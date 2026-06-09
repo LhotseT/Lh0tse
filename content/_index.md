@@ -14,9 +14,9 @@ hideMeta: true
 <p><span style="color: #27c93f;">lh0tse@kali</span><span style="color: #fff;">:</span><span style="color: #5555ff;">~</span><span style="color: #fff;">$</span> whoami</p>
 <p style="color: #ccc;">Bruno Torres</p>
 <p><span style="color: #27c93f;">lh0tse@kali</span><span style="color: #fff;">:</span><span style="color: #5555ff;">~</span><span style="color: #fff;">$</span> cat status.txt</p>
-<p style="color: #ccc;">Studying for OSCP | Based in Ireland | Breaking machines legally</p>
+<p style="color: #ccc;">Studying for OSCP+ and CompTIA Exams Net+ & Sec+  | Based in Ireland | Breaking machines legally</p>
 <p><span style="color: #27c93f;">lh0tse@kali</span><span style="color: #fff;">:</span><span style="color: #5555ff;">~</span><span style="color: #fff;">$</span> cat interests.txt</p>
-<p style="color: #ccc;">Enumeration, Exploitation, Privilege Escalation</p>
+<p style="color: #ccc;">Enumeration, Exploitation, Privilege Escalation, Network Infrastructure</p>
 <p><span style="color: #27c93f;">lh0tse@kali</span><span style="color: #fff;">:</span><span style="color: #5555ff;">~</span><span style="color: #fff;">$</span> <span style="animation: blink 1s infinite;">█</span></p>
 </div>
 </div>
