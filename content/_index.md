@@ -5,7 +5,7 @@ date: ""
 hideMeta: true
 ---
 <div style="display: flex; justify-content: center; align-items: center; min-height: 70vh; width: 100%;">
-<div style="font-family: monospace; background: #1a1a1a; border: 1px solid #333; border-radius: 8px; padding: 3rem; width: 95%;">
+<div style="font-family: monospace; background: #1a1a1a; border: 1px solid #333; border-radius: 8px; padding: 3rem; width: 80%; margin: 0 auto;">
 <div style="color: #666; margin-bottom: 1rem;">
   <span style="color: #ff5f56;">●</span>
   <span style="color: #ffbd2e; margin: 0 4px;">●</span>
