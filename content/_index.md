@@ -21,8 +21,14 @@ hideMeta: true
 </div>
 </div>
 <style>
-.post-content {
+.post-content, .main, article {
   max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 !important;
+}
+#content {
+  max-width: 100% !important;
+  width: 100% !important;
 }
 @keyframes blink {
   0%, 100% { opacity: 1; }
