@@ -5,6 +5,7 @@ title = "Bruno Torres (Lh0tse)"
 
 [params]
 ShowMenu = true
+disableThemeToggle= true
 
 [menu]  # ← this section is required
   [[menu.main]]  
